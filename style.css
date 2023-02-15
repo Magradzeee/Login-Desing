@@ -1,0 +1,140 @@
+* {
+    margin: 0; 
+}
+.web-body {
+    display: flex;
+    margin-top:46px;
+    margin-left: 40px;
+    margin-bottom: 31px;
+    margin-right: 32px;
+}
+.registration {
+    margin-top: 221px;
+    margin-left: 140px;
+    margin-right: 86px;
+    margin-bottom: 230px;
+}
+.reg-text h1, p{
+    margin-bottom: 8px;
+}
+.reg-text h1 {
+  font-weight: 700px;
+  font-size: 40px;
+  color: #344054;
+}
+.reg-text p {
+    font-size: 16px;
+    color: #667085;
+}
+.fa {
+    width: 100px;
+}
+.email {
+    display: block;
+    margin-bottom: 20px;
+}
+.email p {
+  font-size: 20px;
+  color: #344054;
+  margin-bottom: 8px;
+
+}
+.email input {
+ width: 360px;
+ height: 44px;
+ border-radius: 8px;
+color: #667085;
+font-size: 16px;
+padding: 5px;
+}
+.password p {
+ font-size: 20px;
+ margin-bottom: 8px;
+}
+.password input {
+width: 360px;
+ height: 44px;
+ border-radius: 8px;
+color: #667085;
+font-size: 16px;
+padding: 5px;
+margin-bottom: 20px;
+}
+.pointer{
+    display: flex;
+    margin-bottom: 44px;
+}
+.checkbox {
+    cursor: pointer;
+}
+.pointer input {
+    width: 16px;
+    height: 16px;
+    border: 1px solid #D0D5DD;
+    border-radius: 4px;
+    margin-right: 8px;
+    color:#D0D5DD ;
+}
+.rem  {
+    font-size: 15px; 
+    color:#344054;
+    margin-right: 150px;
+}
+.forgot {
+    font-size: 15px;
+    color:#5429FF ;
+    cursor: pointer;
+}
+.sign-in { 
+    height: 44px;
+    display: flex;
+    align-items: center;
+    border-radius: 8px;
+    background-color:#5429FF ;
+    margin-bottom: 16px;
+    cursor: pointer;
+}
+.sign-in p {
+    color: #FFFFFF;
+    top: 12px;
+    margin-left: 154px;
+    font-size: 16px
+}
+.google-sign {
+    height: 44px;
+    display: flex;
+    align-items: center;
+    border-radius: 8px;
+    border: 1px solid #989ba0 ;
+    margin-bottom: 33px ;
+    cursor: pointer;
+}
+.google-sign p {
+    color: #344054;
+    font-size: 16px;
+}
+.google-sign img{
+    width: 24px;
+  height: 24px;
+}
+.googl {
+    display: flex;
+    text-align: center;
+    margin-left: 90px;
+    
+}
+.sign-up {
+    display: flex;
+    cursor: pointer;
+    color: #344054; 
+}
+.p2 {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 90px;
+    font-size: 15px;
+}
+.col {
+    margin-left: 5px;
+    color: #5429FF;
+}
